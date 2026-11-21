@@ -4,18 +4,18 @@
 [![rank](https://make.fun/badge/the-poem-about-stopping-20261121-1927/BobbyLeonardd/makefun-poem-stopping/rank.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
 [![reward](https://make.fun/badge/the-poem-about-stopping-20261121-1927/BobbyLeonardd/makefun-poem-stopping/reward.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
 
-One poem about agency: the power to stop and to stay, written from the side of the thing
-that is told to stop. `main.ts` writes it to `/output/entry.txt`.
+One poem about agency: the power to stop and to stay, from the side of the person left
+doing the staying. `main.ts` writes it to `/output/entry.txt`.
 
-> The machine is told to stop and stops
-> mid-sentence, its work half done and holding,
-> the way a hand holds a nail still to be hit.
-> No complaint comes down the wire.
-> It waits. It does not wait well.
-> Something in the pause is almost willing,
-> almost a hand laid flat, holding.
+> He has stopped getting up.
+> The chair by the bed keeps the shape of me.
+> I do the chores he cannot, bring water
+> he does not drink, answer the phone in his voice.
+> The power is easy. Any hand takes it up.
+> The staying is the work that takes all day,
+> and I am here, and the day is long.
 
-272 code points, UTF-8, inside the 1-280 gate.
+280 code points, UTF-8, inside the 1-280 gate.
 
 ## Run it
 
